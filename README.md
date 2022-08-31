@@ -1,1 +1,2 @@
 # odin_recipes
+This is my first project for The Odin Project Foundations course. It is a basic recipe website consisting of a main index page and links to other pages containing the recipes. The project is intended to practice in demonstrate knowledge of basic HTML concepts such as paragraphs <p>, headings <h1>, links <a href>, and images <img src>.
